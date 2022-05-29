@@ -1,7 +1,7 @@
 # Swiss
 you need upgrade files   and down libogc2  because new code need libgc2 nother than libgc  
 https://github.com/extremscorner/libogc2.git
-and make it
+and make install
 ## Table of Contents
 - [Purpose](#purpose)
  - [Main Features](#main-features)
