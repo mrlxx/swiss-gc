@@ -1,5 +1,7 @@
 # Swiss
-you need upgrade files   and down libogc2  because new code need libgc2 nother than libgc
+you need upgrade files   and down libogc2  because new code need libgc2 nother than libgc  
+https://github.com/extremscorner/libogc2.git
+and make it
 ## Table of Contents
 - [Purpose](#purpose)
  - [Main Features](#main-features)
