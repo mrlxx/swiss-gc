@@ -2,7 +2,8 @@
 you need upgrade files   and down libogc2  because new code need libgc2 nother than libgc  
 https://github.com/extremscorner/libogc2.git
 and make install  
-then youneed download pcc_lib
+then you need download pcc_lib   have some error
+then i use msys2 ->  i install xorrisofs  or mkisofs  -> i adj path of gcc -> change the usbgeko make and zhe real path of zhe FTD2xx.lib
 ## Table of Contents
 - [Purpose](#purpose)
  - [Main Features](#main-features)
